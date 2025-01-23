@@ -45,33 +45,6 @@ If you're willing to invest the time and effort, this project will reward you wi
 
 ---
 
----
-
-## How to Get Started
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/Neural-Networks-from-Scratch.git
-   cd Neural-Networks-from-Scratch
-   ```
-
-2. **Set up the environment**:
-   - Ensure you have Python 3.7+ and NumPy installed.
-   ```bash
-   pip install numpy
-   ```
-
-3. **Explore the code**:
-   - Start with the notebooks in the `notebooks/` directory for a guided walkthrough.
-   - Dive into the `src/` folder to explore individual components.
-
-4. **Run an example**:
-   ```bash
-   python examples/example_training.py
-   ```
-
----
-
 ## Learning Outcomes
 
 By completing this project, you will:
